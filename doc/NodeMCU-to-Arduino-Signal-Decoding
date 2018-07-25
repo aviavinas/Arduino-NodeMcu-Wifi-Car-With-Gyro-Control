@@ -1,0 +1,7 @@
+Action   A1 A3 A5
+-----------------
+stop     L  L  L
+frwd     H  H  H
+lft      H  L  L
+rgt      L  H  L
+bkwd     H  H  L
