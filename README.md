@@ -14,3 +14,7 @@ Follw these instruction that will guide you to making your own Phone Controlled 
 - 2 x Blue Led
 - 2 x White Led
 - 5v Battery Pack
+
+
+### License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
