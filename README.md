@@ -10,9 +10,7 @@ Follw these instruction that will guide you to making your own Phone Controlled 
 - L293D Motor Driver/Servo Shield For Arduino
 - 2 x DC Geared Motor for Arduino
 - Servo Motor SG 90 Tower Pro Micro
-- 2 x Red Led
-- 2 x Blue Led
-- 2 x White Led
+- 2 x Red Led, 2 x Blue Led, 2 x White Led
 - 5v Battery Pack
 
 
