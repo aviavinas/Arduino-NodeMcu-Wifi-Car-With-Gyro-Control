@@ -10,3 +10,4 @@ Servo Motor SG 90 Tower Pro Micro
 2 x Red Led
 2 x Blue Led
 2 x White Led
+5v Battery Pack
