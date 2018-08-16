@@ -1,4 +1,4 @@
-# Arduino NodeMcu Wifi Car With Gyro Control
+# Smartphone Controlled Wifi Car With Gyro Control
  Make a Wifi Remote control car and control it using your Phone. It also supports Gyro control using your phone's Gyro Sensor.
 
 ## Getting Started
