@@ -1,5 +1,5 @@
 # Smartphone Controlled Wifi Car With Gyro Control
- Make a Wifi Remote control car and control it using your Phone. It also supports Gyro control using your phone's Gyro Sensor.
+ Make a Smartphone Controlled Wifi Car. It also supports Gyro control using your phone's Gyro Sensor.
 
 ## Getting Started
 Follw these instruction that will guide you to making your own Phone Controlled Wifi Car. This will cover all required the technical step,  but Feel Free to modify any Mechanical Body part that fits your need.
