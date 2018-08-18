@@ -18,7 +18,9 @@ Follw these instruction that will guide you to making your own Phone Controlled 
 <p align="center">
   <img width="607" height="624" src="doc/Connection Diagram.png">
 </p>
+
 - Attach Arduino Uno to Motor Shield
+
 - Program Arduino and Node MCU using Arduino IDE
 
 ### License
