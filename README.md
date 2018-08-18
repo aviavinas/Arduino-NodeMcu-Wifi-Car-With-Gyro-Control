@@ -14,7 +14,9 @@ Follw these instruction that will guide you to making your own Phone Controlled 
 - 5v Battery Pack
 
 ### Installation
-
+<p align="center">
+  <img width="607" height="624" src="doc/Connection Diagram.png">
+</p>
 
 ### License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
